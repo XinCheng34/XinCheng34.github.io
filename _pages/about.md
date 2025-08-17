@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Xin Cheng is now a PhD candidate at Macquarie University, specialising in accounting and corporate governance. He earned a Bachelor of Management with a major in Financial Management, followed by a Master of Accounting at Monash University and a Master of Research in Accounting and Corporate Governance at Macquarie University. 
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+ <a href='https://scholar.google.com.au/citations?user=SPbPTgoAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 His current research focuses on auditing, cybersecurity, and the government supply chain.
 
