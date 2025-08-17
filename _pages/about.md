@@ -32,7 +32,7 @@ His current research focuses on auditing, cybersecurity, and the government supp
 
 # 📝 Research Outputs
 
--	`Xin Cheng`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*. 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
+-	`Cheng, X.`. (2024). *The price of insecurity: spillover effects of data breach in business-to-government markets*. Master Thesis, Macquarie University.  
 [[HTML]](https://figshare.mq.edu.au/articles/thesis/The_price_of_insecurity_spillover_effects_of_data_breach_in_business-to-government_markets/27974364?file=51834059) [[PDF]](https://figshare.mq.edu.au/ndownloader/files/51834059)
 
 
