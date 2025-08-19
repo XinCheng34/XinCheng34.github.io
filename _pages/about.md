@@ -23,7 +23,7 @@ His current research focuses on auditing, cybersecurity, and the government supp
 
 
 # Education
-- *2025 - 2028 (expected)*, Doctor of Philosophy, Accounting and Corporate Governance， Macquarie University, Australia. 
+- *2025 - 2028 (expected)*, Doctor of Philosophy, Accounting and Corporate Governance, Macquarie University, Australia. 
 - *2023 - 2025*, Master of Research, Accounting and Corporate Governance, Macquarie University, Australia.
 - *2021 - 2022*, Master of Accounting, Accounting, Monash University, Australia.
 - *2016 - 2020*, Bachelor of Management, Financial Management, Concord University College Fujian Normal University, China.
