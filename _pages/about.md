@@ -25,7 +25,7 @@ His current research focuses on auditing, cybersecurity, and the government supp
 # Education
 - *2025 - 2028 (expected)*, Doctor of Philosophy, Accounting and Corporate Governance, <a href="https://www.mq.edu.au/"><img src="https://upload.wikimedia.org/wikipedia/en/4/4c/Macquarie_University_coat_of_arms.png" width="23pt" alt="Macquarie University logo"></a> Macquarie University, Australia. 
 - *2023 - 2025*, Master of Research, Accounting and Corporate Governance, <a href="https://www.mq.edu.au/"><img src="https://upload.wikimedia.org/wikipedia/en/4/4c/Macquarie_University_coat_of_arms.png" width="23pt" alt="Macquarie University logo"></a> Macquarie University, Australia.
-- *2021 - 2022*, Master of Accounting, Accounting, <a href="https://www.monash.edu/"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Monash_University_logo.svg/320px-Monash_University_logo.svg.png" width="23pt" alt="Monash University logo"></a> Monash University, Australia.
+- *2021 - 2022*, Master of Accounting, Accounting, <a href="https://www.monash.edu/"><img class="svg" src="/images/monash.svg" width="23pt"></a> Monash University, Australia.
 - *2016 - 2020*, Bachelor of Management, Financial Management, Concord University College Fujian Normal University, China.
  
 
