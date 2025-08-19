@@ -51,10 +51,10 @@ His current research focuses on auditing, cybersecurity, and the government supp
 
 
 # Services
-None
+- *2025 - 2028*, Graduate Student Representative, Macquarie University
+
 
 # Working Experience
-- *2025 - 2028*, Graduate Student Representative, Macquarie University
 - *Dec 2022*, Research Intern, Institute of Green Investment
 - *Jan 2021 - Apr 2021*, Research Intern, Talkin
 - *Dec 2020 - Feb 2021*, Product Design Intern, Sohu.com
