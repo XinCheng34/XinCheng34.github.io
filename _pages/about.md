@@ -30,8 +30,7 @@ Xin Cheng is a PhD candidate at Macquarie University, specialising in accounting
 ---
 
 # Research Outputs
--	`Cheng, X.` (2024). *The price of insecurity: spillover effects of data breach in business-to-government markets*. Master Thesis, Macquarie University.  
-[[HTML]](https://figshare.mq.edu.au/articles/thesis/The_price_of_insecurity_spillover_effects_of_data_breach_in_business-to-government_markets/27974364?file=51834059) [[PDF]](https://figshare.mq.edu.au/ndownloader/files/51834059)
+
 
 ---
 
