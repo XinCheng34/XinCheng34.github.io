@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xin Cheng"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/orca_512x512.png"
   bio              : "Macquarie University"
   location         : "Sydney, Australia"
   employer         : #"Hefei General Machinery Research Institute"
