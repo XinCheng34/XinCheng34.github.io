@@ -29,7 +29,7 @@ Xin Cheng is a PhD candidate at Macquarie University, specialising in accounting
  
 ---
 
-# Research Outputs
+# Publications
 
 
 ---
@@ -56,7 +56,7 @@ Xin Cheng is a PhD candidate at Macquarie University, specialising in accounting
 
 ---
 
-# Working Experience
+# Experience
 - *Dec 2022*, Research Intern, Institute of Green Investment
 - *Jan 2021 - Apr 2021*, Research Intern, Talkin
 - *Dec 2020 - Feb 2021*, Product Design Intern, Sohu.com
