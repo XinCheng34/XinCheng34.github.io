@@ -24,6 +24,7 @@ Xin Cheng is a PhD candidate in the [Department of Accounting and Corporate Gove
 
 # News
 - <img src="/images/new.png" alt="NEW" style="height:14px; vertical-align:middle; margin-right:6px;"> <strong>Apr 2025</strong>, I start my PhD in the [Department of Accounting and Corporate Governance at Macquarie University](https://www.mq.edu.au/macquarie-business-school/our-departments/department-of-accounting-and-corporate-governance).
+- <img src="/images/new.png" alt="NEW" style="height:14px; vertical-align:middle; margin-right:6px;"> <strong>Feb 2025</strong>, It is my honor to become the graduate student representative for the [Department of Accounting and Corporate Governance at Macquarie University](https://www.mq.edu.au/macquarie-business-school/our-departments/department-of-accounting-and-corporate-governance).
 
 ---
 
