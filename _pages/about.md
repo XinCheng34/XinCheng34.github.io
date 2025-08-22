@@ -41,7 +41,7 @@ Xin Cheng is a PhD candidate in the [Department of Accounting and Corporate Gove
 
 ---
 
-# Honors and Awards
+# Honours and Awards
 - **2025**, *Executive Dean's Commendation for Academic Excellence in Year 2 Master of Research, Macquarie University*
 - **2025**, *International Macquarie University Research Excellence Scholarship*
 - **2024**, *International Macquarie University Research Excellence Scholarship*
