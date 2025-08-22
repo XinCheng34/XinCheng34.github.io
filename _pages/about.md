@@ -28,10 +28,10 @@ Xin Cheng is a PhD candidate at Macquarie University, specialising in accounting
 ---
 
 # Education
-- **2025 - 2028 (expected)**, *Doctor of Philosophy*, *Accounting and Corporate Governance*, <a href="https://www.mq.edu.au"><img src="/images/mq.png" alt="link" style="height:14px; vertical-align:middle; margin-left:6px;"></a> Macquarie University. 
-- **2023 - 2025**, *Master of Research*, *Accounting and Corporate Governance*, Macquarie University.
-- **2021 - 2022**, *Master of Accounting*, *Accounting*, Monash University.
-- **2016 - 2020**, *Bachelor of Management*, *Financial Management*, Concord University College Fujian Normal University.
+- **2025 - 2028 (expected)**, *Doctor of Philosophy*, *Accounting and Corporate Governance*, <a href="https://www.mq.edu.au"><img src="/images/mq.png" alt="link" style="height:20px; vertical-align:middle; margin-left:6px;"></a> Macquarie University. 
+- **2023 - 2025**, *Master of Research*, *Accounting and Corporate Governance*, <a href="https://www.mq.edu.au"><img src="/images/mq.png" alt="link" style="height:20px; vertical-align:middle; margin-left:6px;"></a> Macquarie University.
+- **2021 - 2022**, *Master of Accounting*, *Accounting*, <a href="https://www.monash.edu/"><img src="/images/monash.png" alt="link" style="height:20px; vertical-align:middle; margin-left:6px;"></a> Monash University.
+- **2016 - 2020**, *Bachelor of Management*, *Financial Management*, <a href="https://cuc.fjnu.edu.cn/"><img src="/images/cuc.png" alt="link" style="height:20px; vertical-align:middle; margin-left:6px;"></a> Concord University College Fujian Normal University.
  
 ---
 
