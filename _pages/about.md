@@ -47,7 +47,7 @@ Xin Cheng is a PhD candidate in the [Department of Accounting and Corporate Gove
 - **2024**, *International Macquarie University Research Excellence Scholarship*
 - **2023**, *ACF5350 Applied Contemporary Accounting Unit Prize, Monash University*
 - **2020**, *Outstanding Thesis, Concord University College Fujian Normal University*
-- **2020**, *Graduate with Honor, Concord University College Fujian Normal University*
+- **2020**, *Graduate with Honour, Concord University College Fujian Normal University*
 - **2019**, *Academic Excellence Scholarship, Concord University College Fujian Normal University*
 - **2019**, *Third Prize, Enterprise Value Creation Competition - South China Division*
 - **2019**, *First Prize, Band C in National English Competition for College Students*
