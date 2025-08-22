@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Biography
-Xin Cheng is a PhD candidate in the [Department of Accounting and Corporate Governance at Macquarie University](https://www.mq.edu.au/macquarie-business-school/our-departments/department-of-accounting-and-corporate-governance). He earned a Bachelor of Management with a major in Financial Management, followed by a Master of Accounting at [Monash University](https://www.monash.edu/) and a Master of Research in Accounting and Corporate Governance at [Macquarie University](https://www.mq.edu.au). His current research focuses on auditing, cybersecurity, and the government supply chain. <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+Xin Cheng is a PhD candidate in the [Department of Accounting and Corporate Governance at Macquarie University](https://www.mq.edu.au/macquarie-business-school/our-departments/department-of-accounting-and-corporate-governance). He earned a Bachelor of Management with a major in Financial Management, followed by a Master of Accounting at [Monash University](https://www.monash.edu/) and a Master of Research in Accounting and Corporate Governance at [Macquarie University](https://www.mq.edu.au). His current research focuses on auditing, cybersecurity, and the government supply chain. <a href='https://scholar.google.com.au/citations?user=SPbPTgoAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
 
 ---
