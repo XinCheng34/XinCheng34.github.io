@@ -10,6 +10,20 @@
  *
 */
 
+
+@import "academicpages";
+
+body {
+  background-color: #f7f7f7; /* 整体灰背景 */
+}
+
+.page__content {
+  background-color: #fff;     /* 正文白卡片 */
+  padding: 24px;
+  border-radius: 12px;
+  box-shadow: 0 6px 24px rgba(0,0,0,0.06);
+}
+
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
