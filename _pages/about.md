@@ -30,11 +30,13 @@ Xin Cheng is a PhD candidate at Macquarie University, specialising in accounting
  
 ---
 
+<div class="section-gray">
+
 # Publications
 *This section is under construction...*
 
-
 ---
+</div>
 
 # Honors and Awards
 - **2025**, *Executive Dean's Commendation for Academic Excellence in Year 2 Master of Research*, Macquarie University
