@@ -18,12 +18,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Biography
-Xin Cheng is a PhD candidate at [Macquarie University](https://www.mq.edu.au), specialising in accounting and corporate governance. He earned a Bachelor of Management with a major in Financial Management, followed by a Master of Accounting at [Monash University](https://www.monash.edu/business) and a Master of Research in Accounting and Corporate Governance at Macquarie University [Macquarie University](https://www.mq.edu.au/macquarie-business-school/our-departments/department-of-accounting-and-corporate-governance). His current research focuses on auditing, cybersecurity, and the government supply chain.
+Xin Cheng is a PhD candidate in the [Department of Accounting and Corporate Governance at Macquarie University](https://www.mq.edu.au/macquarie-business-school/our-departments/department-of-accounting-and-corporate-governance). He earned a Bachelor of Management with a major in Financial Management, followed by a Master of Accounting at [Monash University](https://www.monash.edu/) and a Master of Research in Accounting and Corporate Governance at [Macquarie University](https://www.mq.edu.au). His current research focuses on auditing, cybersecurity, and the government supply chain.
 
 ---
 
 # News
-- <img src="/images/new.png" alt="NEW" style="height:14px; vertical-align:middle; margin-right:6px;"> <strong>Apr 2025</strong>, I start my PhD in Accounting and Corporate Governance at [Macquarie University](https://www.mq.edu.au/macquarie-business-school/our-departments/department-of-accounting-and-corporate-governance).
+- <img src="/images/new.png" alt="NEW" style="height:14px; vertical-align:middle; margin-right:6px;"> <strong>Apr 2025</strong>, I start my PhD in the [Department of Accounting and Corporate Governance at Macquarie University](https://www.mq.edu.au/macquarie-business-school/our-departments/department-of-accounting-and-corporate-governance).
 
 ---
 
