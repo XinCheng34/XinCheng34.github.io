@@ -22,6 +22,11 @@ Xin Cheng is a PhD candidate at Macquarie University, specialising in accounting
 
 ---
 
+# News
+- <img src="/images/new.png" alt="NEW" style="height:14px; vertical-align:middle; margin-right:6px;"> <strong>Apr 2025</strong>, I am a PhD student at Macquarie University now.
+
+---
+
 # Education
 - **2025 - 2028 (expected)**, *Doctor of Philosophy*, *Accounting and Corporate Governance*, Macquarie University. 
 - **2023 - 2025**, *Master of Research*, *Accounting and Corporate Governance*, Macquarie University.
