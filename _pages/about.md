@@ -18,12 +18,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Biography
-Xin Cheng is a PhD candidate at Macquarie University, specialising in accounting and corporate governance. He earned a Bachelor of Management with a major in Financial Management, followed by a Master of Accounting at Monash University and a Master of Research in Accounting and Corporate Governance at Macquarie University. His current research focuses on auditing, cybersecurity, and the government supply chain.
+Xin Cheng is a PhD candidate at [Macquarie University](https://www.mq.edu.au), specialising in accounting and corporate governance. He earned a Bachelor of Management with a major in Financial Management, followed by a Master of Accounting at [Monash University](https://www.monash.edu/business) and a Master of Research in Accounting and Corporate Governance at Macquarie University [Macquarie University](https://www.mq.edu.au/macquarie-business-school/our-departments/department-of-accounting-and-corporate-governance). His current research focuses on auditing, cybersecurity, and the government supply chain.
 
 ---
 
 # News
-- <img src="/images/new.png" alt="NEW" style="height:14px; vertical-align:middle; margin-right:6px;"> <strong>Apr 2025</strong>, I start my PhD in Accounting and Corporate Governance at Macquarie University.
+- <img src="/images/new.png" alt="NEW" style="height:14px; vertical-align:middle; margin-right:6px;"> <strong>Apr 2025</strong>, I start my PhD in Accounting and Corporate Governance at [Macquarie University](https://www.mq.edu.au/macquarie-business-school/our-departments/department-of-accounting-and-corporate-governance).
 
 ---
 
@@ -41,19 +41,19 @@ Xin Cheng is a PhD candidate at Macquarie University, specialising in accounting
 ---
 
 # Honors and Awards
-- **2025**, *Executive Dean's Commendation for Academic Excellence in Year 2 Master of Research*, Macquarie University
-- **2025**, *International Macquarie University Research Excellence Scholarship*, Macquarie University
-- **2024**, *International Macquarie University Research Excellence Scholarship*, Macquarie University
-- **2023**, *ACF5350 Applied Contemporary Accounting Unit Prize*, Monash University
-- **2020**, *Outstanding Thesis*, Concord University College Fujian Normal University
-- **2020**, *Graduate with Honor*, Concord University College Fujian Normal University
-- **2019**, *Academic Excellence Scholarship*, Concord University College Fujian Normal University
-- **2019**, *Third Prize, Enterprise Value Creation Competition - South China Division*, Concord University College Fujian Normal University
-- **2019**, *First Prize, Band C in National English Competition for College Students*, Concord University College Fujian Normal University
-- **2018**, *Second Prize Academic Scholarship*, Concord University College Fujian Normal University
-- **2018**, *Third Prize, Fujian "First Cup" Accounting and Tax Skills Competition*, Concord University College Fujian Normal University
-- **2018**, *First Prize, Band C in National English Competition for College Students*, Concord University College Fujian Normal University
-- **2017**, *First Prize Academic Scholarship*, Concord University College Fujian Normal University
+- **2025**, *Executive Dean's Commendation for Academic Excellence in Year 2 Master of Research, Macquarie University*
+- **2025**, *International Macquarie University Research Excellence Scholarship*
+- **2024**, *International Macquarie University Research Excellence Scholarship*
+- **2023**, *ACF5350 Applied Contemporary Accounting Unit Prize, Monash University*
+- **2020**, *Outstanding Thesis, Concord University College Fujian Normal University*
+- **2020**, *Graduate with Honor, Concord University College Fujian Normal University*
+- **2019**, *Academic Excellence Scholarship, Concord University College Fujian Normal University*
+- **2019**, *Third Prize, Enterprise Value Creation Competition - South China Division*
+- **2019**, *First Prize, Band C in National English Competition for College Students*
+- **2018**, *Second Prize Academic Scholarship, Concord University College Fujian Normal University*
+- **2018**, *Third Prize, Fujian "First Cup" Accounting and Tax Skills Competition*
+- **2018**, *First Prize, Band C in National English Competition for College Students*
+- **2017**, *First Prize Academic Scholarship, Concord University College Fujian Normal University*
 
 ---
 
