@@ -72,4 +72,4 @@ Xin Cheng is a PhD candidate in the [Department of Accounting and Corporate Gove
 ---
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=HoRJThtHijHWdO8uLUYMKulUY9oUFt53CeV9aYiy77c'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=HoRJThtHijHWdO8uLUYMKulUY9oUFt53CeV9aYiy77c'></script>
