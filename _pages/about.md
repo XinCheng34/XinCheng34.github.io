@@ -67,6 +67,5 @@ Xin Cheng is a PhD candidate in the [Department of Accounting and Corporate Gove
 # Experience
 - **Dec 2022**, *Research Intern*, Institute of Green Investment
 - **Jan 2021 - Apr 2021**, *Research Intern*, Talkin
-- **Dec 2020 - Feb 2021**, *Product Design Intern*, Sohu.com
 
   
