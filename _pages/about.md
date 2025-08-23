@@ -69,6 +69,4 @@ Xin Cheng is a PhD candidate in the [Department of Accounting and Corporate Gove
 - **Jan 2021 - Apr 2021**, *Research Intern*, Talkin
 - **Dec 2020 - Feb 2021**, *Product Design Intern*, Sohu.com
 
-  # Visitor Map
-
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=HoRJThtHijHWdO8uLUYMKulUY9oUFt53CeV9aYiy77c"></script>
+---
