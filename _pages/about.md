@@ -22,15 +22,15 @@ Xin Cheng is a PhD candidate in the [Department of Accounting and Corporate Gove
 
 
 # News
-- <img src="/images/new.png" alt="NEW" style="height:14px; vertical-align:middle; margin-right:6px;"> <strong>Apr 2025</strong>, Admitted to the PhD program in the [Department of Accounting and Corporate Governance at Macquarie University](https://www.mq.edu.au/macquarie-business-school/our-departments/department-of-accounting-and-corporate-governance).
-- <img src="/images/new.png" alt="NEW" style="height:14px; vertical-align:middle; margin-right:6px;"> <strong>Feb 2025</strong>, Selected as the Graduate Student Representative for the [Department of Accounting and Corporate Governance at Macquarie University](https://www.mq.edu.au/macquarie-business-school/our-departments/department-of-accounting-and-corporate-governance).
+- <img src="/images/new.png" alt="NEW" style="height:14px; vertical-align:middle; margin-right:6px;"><strong>Apr 2025</strong>, Admitted to the PhD program in the [Department of Accounting and Corporate Governance at Macquarie University](https://www.mq.edu.au/macquarie-business-school/our-departments/department-of-accounting-and-corporate-governance).
+- <img src="/images/new.png" alt="NEW" style="height:14px; vertical-align:middle; margin-right:6px;"><strong>Feb 2025</strong>, Selected as the Graduate Student Representative for the [Department of Accounting and Corporate Governance at Macquarie University](https://www.mq.edu.au/macquarie-business-school/our-departments/department-of-accounting-and-corporate-governance).
 
 
 # Education
-- **2025 - 2028 (expected)**, *Doctor of Philosophy*, *Accounting and Corporate Governance*, <a href="https://www.mq.edu.au"><img src="/images/mq.png" alt="link" style="height:20px; vertical-align:middle; margin-left:6px;"></a> Macquarie University. 
-- **2023 - 2025**, *Master of Research*, *Accounting and Corporate Governance*, <a href="https://www.mq.edu.au"><img src="/images/mq.png" alt="link" style="height:20px; vertical-align:middle; margin-left:6px;"></a> Macquarie University.
-- **2021 - 2022**, *Master of Accounting*, *Accounting*, <a href="https://www.monash.edu/"><img src="/images/monash.png" alt="link" style="height:20px; vertical-align:middle; margin-left:6px;"></a> Monash University.
-- **2016 - 2020**, *Bachelor of Management*, *Financial Management*, <a href="https://cuc.fjnu.edu.cn/"><img src="/images/cuc.png" alt="link" style="height:20px; vertical-align:middle; margin-left:6px;"></a> Concord University College Fujian Normal University.
+- **2025 - 2028 (expected)**, *Doctor of Philosophy*, *Accounting and Corporate Governance*,<a href="https://www.mq.edu.au"><img src="/images/mq.png" alt="link" style="height:20px; vertical-align:middle; margin-left:6px;"></a> Macquarie University. 
+- **2023 - 2025**, *Master of Research*, *Accounting and Corporate Governance*,<a href="https://www.mq.edu.au"><img src="/images/mq.png" alt="link" style="height:20px; vertical-align:middle; margin-left:6px;"></a> Macquarie University.
+- **2021 - 2022**, *Master of Accounting*, *Accounting*,<a href="https://www.monash.edu/"><img src="/images/monash.png" alt="link" style="height:20px; vertical-align:middle; margin-left:6px;"></a> Monash University.
+- **2016 - 2020**, *Bachelor of Management*, *Financial Management*,<a href="https://cuc.fjnu.edu.cn/"><img src="/images/cuc.png" alt="link" style="height:20px; vertical-align:middle; margin-left:6px;"></a> Concord University College Fujian Normal University.
  
 
 # Publications
